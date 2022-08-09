@@ -10,7 +10,11 @@
   <img src="./Icons/logo-ERSolutions.png" width="300"/>
 </div>
 
-# ER-Solutions
+# Company information
+
+ER-Solutions is a consulting company registered in Finland. It provides Finite Element solutions to professionals by pulling numerical tools from the open-source world and customized them to the need at hand.
+
+# The free world at your hand
 
 The goal is to develop and use existing open-source numerical tools to solve industrial and academic works alike.
 
