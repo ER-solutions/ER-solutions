@@ -10,9 +10,13 @@
   <img src="./Icons/logo-ERSolutions.png" width="300"/>
 </div>
 
-# ER-Solutions
+# Company information
 
-The goal is to develop and use existing open-source numerical tools to solve industrial and academic works alike.
+ER-Solutions is a consulting company registered in Finland. It provides Finite Element solutions to professionals by pulling numerical tools from the open-source world and customized them to the need at hand.
+
+# The free world at your hand
+
+The goal is to develop and use existing open-source numerical tools to bring turnkey solutions to industrial and academic clients and partners alike.
 
 We have been using different open-source and free software to address electromagnetic, thermal, CFD and mechanical problems. Amongst these software listed below, [Elmerfem](http://www.elmerfem.org/blog/), has been and remains our main tool to tackle large multiphysics problems. The solver is developed and maintained by [CSC – IT Center for Science](https://www.csc.fi/en/home) in Finland under [Elmer-CSC](https://www.csc.fi/web/elmer).
 
@@ -68,7 +72,7 @@ Hence, in addition to Elmerfem, our experience covers the following software:
 Some videos related to the handling of the software can be found on our Youtube channel.
 
 <div align="left">
- <a href="">
+ <a href="https://www.youtube.com/channel/UCqqFPz7OU5G5i-xOqeDPnMw">
     <img src="./Icons/youtube.jpeg" width="100"/>
  </a>
 </div>
@@ -77,22 +81,24 @@ Some videos related to the handling of the software can be found on our Youtube 
 
 # 🧑‍🔬 Online profiles
 
-For some information on who we are and what we are currently doing, you may look at our online profiles:
+For some information on who we are and what we are currently doing, you may look at our online profiles (click name or photos to get redirected):
 
-Frederic Trillaud :
+[Frederic Trillaud](https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en) (Academic applications)
 <div align="left">
  <a href="https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en" rel="googlescholar">
-    <img src="./Pictures/foto.jpeg" width="50">
+    <img src="./Pictures/foto.jpeg" width="100">
  </a>
 </div>
 
-Eelis Takala:
+[Eelis Takala](https://github.com/ettaka/) (Industrial applications)
 <div align="left">
  <a href="https://github.com/ettaka/" rel="github">
-    <img src="./Icons/github.png" width="50">
+    <img src="./Icons/github.png" width="100">
  </a>
 </div>
 
+
+<hr style="border:2px solid orange">
 <hr style="border:2px solid orange">
 
 # :fire: Statistics:
