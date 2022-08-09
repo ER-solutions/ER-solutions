@@ -68,7 +68,7 @@ Hence, in addition to Elmerfem, our experience covers the following software:
 Some videos related to the handling of the software can be found on our Youtube channel.
 
 <div align="left">
- <a href="">
+ <a href="https://www.youtube.com/channel/UCqqFPz7OU5G5i-xOqeDPnMw">
     <img src="./Icons/youtube.jpeg" width="100"/>
  </a>
 </div>
@@ -79,20 +79,22 @@ Some videos related to the handling of the software can be found on our Youtube 
 
 For some information on who we are and what we are currently doing, you may look at our online profiles:
 
-Frederic Trillaud :
+Frederic Trillaud (Academic applications)
 <div align="left">
  <a href="https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en" rel="googlescholar">
-    <img src="./Pictures/foto.jpeg" width="50">
+    <img src="./Pictures/foto.jpeg" width="100">
  </a>
 </div>
 
-Eelis Takala:
+Eelis Takala (Industrial applications)
 <div align="left">
  <a href="https://github.com/ettaka/" rel="github">
-    <img src="./Icons/github.png" width="50">
+    <img src="./Icons/github.png" width="100">
  </a>
 </div>
 
+
+<hr style="border:2px solid orange">
 <hr style="border:2px solid orange">
 
 # :fire: Statistics:
