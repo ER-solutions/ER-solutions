@@ -16,7 +16,7 @@ ER-Solutions is a consulting company registered in Finland. It provides Finite E
 
 # The free world at your hand
 
-The goal is to develop and use existing open-source numerical tools to bring turnkey solutions to industrial and academic clients alike.
+The goal is to develop and use existing open-source numerical tools to bring turnkey solutions to industrial and academic clients and partners alike.
 
 We have been using different open-source and free software to address electromagnetic, thermal, CFD and mechanical problems. Amongst these software listed below, [Elmerfem](http://www.elmerfem.org/blog/), has been and remains our main tool to tackle large multiphysics problems. The solver is developed and maintained by [CSC – IT Center for Science](https://www.csc.fi/en/home) in Finland under [Elmer-CSC](https://www.csc.fi/web/elmer).
 
