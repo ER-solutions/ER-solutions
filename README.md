@@ -110,8 +110,9 @@ For some information on who we are and what we are currently doing, you may look
  <tr>
 
   <td>
-   <a href="https://github.com/ftrillaudp">Frederic Trillaud</a>
-   <a href="https://orcid.org/0000-0002-6964-5603">Associate professor</a>
+   <a href="https://github.com/ftrillaudp">Frederic Trillaud</a> <br />
+   (Academic applications):
+   Associate professor
    <a
     id="cy-effective-orcid-url"
     class="underline"
@@ -125,7 +126,7 @@ For some information on who we are and what we are currently doing, you may look
        alt="ORCID iD icon"/>
      https://orcid.org/0000-0002-6964-5603
    </a>
-   at the National Autonomous University of Mexico. Focus on multiphysics modeling development with experience in electromagnetic, thermal, CFD (thermofluid, CFD-structure interaction and electrohydrodynamic simulations) and structural mechanics (elastic and elastoplastic models). Contact available in English, French or Spanish.
+   at the <a href="https://www.unam.mx/">National Autonomous University of Mexico</a>. Focus on multiphysics modeling development with experience in electromagnetic, thermal, CFD (thermofluid, CFD-structure interaction and electrohydrodynamic simulations) and structural mechanics (elastic and elastoplastic models). Contact available in English, French or Spanish.
    </td>
 
    <td>
