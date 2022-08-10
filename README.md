@@ -145,21 +145,14 @@ For some information on who we are and what we are currently doing, you may look
     </div>
    </td>
  </tr>
-
- <tr>
- <td>
-  <div align="center">
-   Contact available in English, French and Spanish.
-  </div>
- </td>
-
-  <td>
-   <div align="center">
-    Contact available in English, French and Finnish.
-   </div>
-  </td>
- </tr>
 </table>
+
+<hr style="border:2px solid yellow">
+
+# :bell: Contacts
+
+Contact available in English, French and Spanish: [Frederic Trillaud](ftrillaudp@gmail.com) <br/>
+Contact available in English, French and Finnish: [Eelis Takala](eelis.takala@gmail.com)
 
 <hr style="border:2px solid orange">
 <hr style="border:2px solid orange">
