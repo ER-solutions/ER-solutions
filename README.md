@@ -151,8 +151,8 @@ For some information on who we are and what we are currently doing, you may look
 
 # :bell: Contacts
 
-Contact available in English, French and Spanish: [Frederic Trillaud](ftrillaudp@gmail.com) <br/>
-Contact available in English, French and Finnish: [Eelis Takala](eelis.takala@gmail.com)
+Contact available in English, French and Spanish: 📩 <a href="mailto:ftrillaudp@gmail.com">Frederic Trillaud</a> <br/>
+Contact available in English, French and Finnish: 📩 <a href="mailto:eelis.takala@gmail.com">Eelis Takala</a>
 
 <hr style="border:2px solid orange">
 <hr style="border:2px solid orange">
