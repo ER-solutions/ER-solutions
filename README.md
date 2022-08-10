@@ -42,7 +42,7 @@ Hence, in addition to Elmerfem, our experience covers the following software:
  <a href="http://www.elmerfem.org/blog/" rel="elmer">
     <img src="./Icons/elmer.jpeg" width="40">
  </a>
- &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp;
  <a href="https://www.code-aster.org/spip.php?rubrique2" rel="aster">
     <img src="./Icons/aster.png" width="54">
  </a>
@@ -64,6 +64,10 @@ Hence, in addition to Elmerfem, our experience covers the following software:
 &nbsp;
 [Openfoam](https://openfoam.org/)
 
+Main programming languages:
+- [Python](https://www.python.org/)
+- [Fortran](https://fortran-lang.org/)
+
 
 <hr style="border:2px solid blue">
 
@@ -83,33 +87,53 @@ Some videos related to the handling of the software can be found on our Youtube 
 
 For some information on who we are and what we are currently doing, you may look at our online profiles (click name or photos to get redirected):
 
-<div align="left">
- <a href="https://github.com/ftrillaudp" rel="googlescholar">
-    <img src="./Pictures/foto.jpeg" width="100">
- </a>
-</div>
-[Frederic Trillaud](https://github.com/ftrillaudp) (Academic applications): [Associate professor](https://orcid.org/0000-0002-6964-5603)
-<a
-id="cy-effective-orcid-url"
-class="underline"
- href="https://orcid.org/0000-0002-6964-5603"
- target="orcid.widget"
- rel="me noopener noreferrer"
- style="vertical-align: top">
- <img
-    src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-    style="width: 1em; margin-inline-start: 0.5em"
-    alt="ORCID iD icon"/>
-  https://orcid.org/0000-0002-6964-5603
-</a>
-at the National Autonomous University of Mexico. Focus on multiphysics modeling development with experience in electromagnetic, thermal, CFD (thermofluid, CFD-structure interaction and hydroelectrodynamic simulations) and structural mechanics (elastic and elastoplastic models). Contact available in English, French or Spanish.
 
-<div align="left">
- <a href="https://github.com/ettaka/" rel="github">
-    <img src="./Icons/github.png" width="100">
- </a>
-</div>
-[Eelis Takala](https://github.com/ettaka/) (Industrial applications): Contact available in English, French or Finnish.
+<table>
+ <tr>
+
+  <td>
+   <div align="left">
+    <a href="https://github.com/ftrillaudp" rel="googlescholar">
+       <img src="./Pictures/foto.jpeg" width="100">
+    </a>
+   </div>
+  </td>
+
+  <td>
+  <div align="left">
+   <a href="https://github.com/ettaka/" rel="github">
+      <img src="./Icons/github.png" width="100">
+   </a>
+   </div>
+  </td>
+ </tr>
+
+ <tr>
+
+  <td>
+   [Frederic Trillaud](https://github.com/ftrillaudp) \[Academic applications\]: [Associate professor](https://orcid.org/0000-0002-6964-5603)
+   <a
+   id="cy-effective-orcid-url"
+   class="underline"
+    href="https://orcid.org/0000-0002-6964-5603"
+    target="orcid.widget"
+    rel="me noopener noreferrer"
+    style="vertical-align: top">
+    <img
+       src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+       style="width: 1em; margin-inline-start: 0.5em"
+       alt="ORCID iD icon"/>
+     https://orcid.org/0000-0002-6964-5603
+   </a>
+   at the National Autonomous University of Mexico. Focus on multiphysics modeling development with experience in electromagnetic, thermal, CFD (thermofluid, CFD-structure interaction and electrohydrodynamic simulations) and structural mechanics (elastic and elastoplastic models). Contact available in English, French or Spanish.
+   </td>
+
+   <td>
+    [Eelis Takala](https://github.com/ettaka/) \[Industrial applications\]: Contact available in English, French or Finnish.
+   </td>
+
+ </tr>
+</table>
 
 
 <hr style="border:2px solid orange">
