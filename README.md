@@ -110,6 +110,18 @@ For some information on who we are and what we are currently doing, you may look
   <td>
    <div align="center">
     <a href="https://github.com/ftrillaudp">Frederic Trillaud</a>
+    <a
+     id="cy-effective-orcid-url"
+     class="underline"
+     href="https://orcid.org/0000-0002-6964-5603"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+    </a>
    </div>
   </td>
 
@@ -122,26 +134,15 @@ For some information on who we are and what we are currently doing, you may look
 
  <tr>
   <td>
-   <div align="justify">
-   Associate professor
-   <a
-    id="cy-effective-orcid-url"
-    class="underline"
-    href="https://orcid.org/0000-0002-6964-5603"
-    target="orcid.widget"
-    rel="me noopener noreferrer"
-    style="vertical-align: top">
-    <img
-       src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-       style="width: 1em; margin-inline-start: 0.5em"
-       alt="ORCID iD icon"/>
-   </a>
-   at the <a href="https://www.unam.mx/">National Autonomous University of Mexico</a>. Focus on multiphysics modeling development with experience in electromagnetic, thermal, CFD (thermofluid, CFD-structure interaction and electrohydrodynamic simulations) and structural mechanics (elastic and elastoplastic models).
-   </div>
+    <div align="justify">
+     Associate professor at the <a href="https://www.unam.mx/">National Autonomous University of Mexico</a>. Focus on multiphysics modeling development with experience in electromagnetic, thermal, CFD (thermofluid, CFD-structure interaction and electrohydrodynamic simulations) and structural mechanics (elastic and elastoplastic models).
+    </div>
    </td>
 
    <td>
-    Development Engineer and lead research specialist at <a href="https://trafotek.fi/">AK Trafotek Oy</a>. Focus on multiphysics modeling development with experience in electromagnetic with circuit coupling, thermal and mechanical (elastic and elastoplastic models).
+    <div align="justify">
+     Development Engineer and lead research specialist at <a href="https://trafotek.fi/">AK Trafotek Oy</a>. Focus on multiphysics modeling development with experience in electromagnetic with circuit coupling, thermal and mechanical (elastic and elastoplastic models).
+    </div>
    </td>
  </tr>
 
