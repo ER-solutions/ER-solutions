@@ -89,9 +89,8 @@ For some information on who we are and what we are currently doing, you may look
 
 <table>
  <tr>
-
   <td>
-   <div align="left">
+   <div align="center">
     <a href="https://github.com/ftrillaudp" rel="googlescholar">
        <img src="./Pictures/foto.jpeg" width="100">
     </a>
@@ -99,7 +98,7 @@ For some information on who we are and what we are currently doing, you may look
   </td>
 
   <td>
-  <div align="left">
+  <div align="center">
    <a href="https://github.com/ettaka/" rel="github">
       <img src="./Icons/github.png" width="100">
    </a>
@@ -108,10 +107,21 @@ For some information on who we are and what we are currently doing, you may look
  </tr>
 
  <tr>
+  <td>
+   <div align="center">
+    <a href="https://github.com/ftrillaudp">Frederic Trillaud</a> (Academic applications):
+   </div>
+  </td>
 
   <td>
-   <a href="https://github.com/ftrillaudp">Frederic Trillaud</a>
-   (Academic applications):
+   <div align="center">
+    <a href="https://github.com/ettaka/">Eelis Takala</a> (Industrial applications): 
+   </div>
+  </td>
+ </tr>
+
+ <tr>
+  <td>
    Associate professor
    <a
     id="cy-effective-orcid-url"
@@ -129,10 +139,8 @@ For some information on who we are and what we are currently doing, you may look
    </td>
 
    <td>
-   <a href="https://github.com/ettaka/">Eelis Takala</a>
-   (Industrial applications): Contact available in English, French or Finnish.
+    Contact available in English, French or Finnish.
    </td>
-
  </tr>
 </table>
 
