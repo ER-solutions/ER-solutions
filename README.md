@@ -7,7 +7,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="./Icons/logo-ERSolutionsTransparent.png" width="300"/>
+  <img src="./Icons/logoERS.png" width="300"/>
 </div>
 
 # Company information
