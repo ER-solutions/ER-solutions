@@ -7,7 +7,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="./Icons/logo-ERSolutions.png" width="300"/>
+  <img src="./Icons/logo-ERSolutionsTransparent.png" width="300"/>
 </div>
 
 # Company information
@@ -83,19 +83,19 @@ Some videos related to the handling of the software can be found on our Youtube 
 
 For some information on who we are and what we are currently doing, you may look at our online profiles (click name or photos to get redirected):
 
-[Frederic Trillaud](https://github.com/ftrillaudp) (Academic applications)
 <div align="left">
  <a href="https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en" rel="googlescholar">
     <img src="./Pictures/foto.jpeg" width="100">
  </a>
 </div>
+[Frederic Trillaud](https://github.com/ftrillaudp) (Academic applications)
 
-[Eelis Takala](https://github.com/ettaka/) (Industrial applications)
 <div align="left">
  <a href="https://github.com/ettaka/" rel="github">
     <img src="./Icons/github.png" width="100">
  </a>
 </div>
+[Eelis Takala](https://github.com/ettaka/) (Industrial applications)
 
 
 <hr style="border:2px solid orange">
