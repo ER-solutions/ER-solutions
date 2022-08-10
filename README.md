@@ -128,8 +128,8 @@ For some information on who we are and what we are currently doing, you may look
    </td>
 
    <td>
-    href="https://github.com/ettaka/">Eelis Takala
-    (Industrial applications): Contact available in English, French or Finnish.
+   <a href="https://github.com/ettaka/">Eelis Takala</a>
+   (Industrial applications): Contact available in English, French or Finnish.
    </td>
 
  </tr>
