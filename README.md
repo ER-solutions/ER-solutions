@@ -100,7 +100,7 @@ For some information on who we are and what we are currently doing, you may look
   <td>
   <div align="center">
    <a href="https://github.com/ettaka/" rel="github">
-      <img src="./Pictures/ettaka.jpeg" width="10">
+      <img src="./Pictures/ettaka.png" width="100">
    </a>
    </div>
   </td>
