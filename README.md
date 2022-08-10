@@ -152,10 +152,8 @@ For some information on who we are and what we are currently doing, you may look
 # :bell: Contacts
 
 Contact available in English, French, Spanish and Finnish:
-<a href="mailto:ftrillaudp@gmail.com">📩 Frederic Trillaud</a> <br/>
-<a href="mailto:eelis.takala@gmail.com">📩 Eelis Takala</a>
+<a href="mailto:elemental.reality.solutions@gmail.com">📩 ER-Solutions</a>
 
-For Finnish, contact: <a href="mailto:eelis.takala@gmail.com">📩 Eelis Takala</a>
 
 <hr style="border:2px solid orange">
 <hr style="border:2px solid orange">
