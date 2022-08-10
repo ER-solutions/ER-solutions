@@ -110,7 +110,8 @@ For some information on who we are and what we are currently doing, you may look
  <tr>
 
   <td>
-   [Frederic Trillaud](https://github.com/ftrillaudp), `Academic applications`: [Associate professor](https://orcid.org/0000-0002-6964-5603)
+   <a href="https://github.com/ftrillaudp">Frederic Trillaud</a>
+   <a href="https://orcid.org/0000-0002-6964-5603">Associate professor</a>
    <a
     id="cy-effective-orcid-url"
     class="underline"
