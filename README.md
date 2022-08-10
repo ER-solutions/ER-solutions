@@ -83,7 +83,7 @@ Some videos related to the handling of the software can be found on our Youtube 
 
 <hr style="border:2px solid green">
 
-# 🧑‍🔬 Online profiles
+# 🧑‍🔬 Profiles
 
 For some information on who we are and what we are currently doing, you may look at our online profiles (click name or photos to get redirected):
 
