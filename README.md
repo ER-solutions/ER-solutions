@@ -109,13 +109,13 @@ For some information on who we are and what we are currently doing, you may look
  <tr>
   <td>
    <div align="center">
-    <a href="https://github.com/ftrillaudp">Frederic Trillaud</a> (Academic applications):
+    <a href="https://github.com/ftrillaudp">Frederic Trillaud</a>
    </div>
   </td>
 
   <td>
    <div align="center">
-    <a href="https://github.com/ettaka/">Eelis Takala</a> (Industrial applications): 
+    <a href="https://github.com/ettaka/">Eelis Takala</a>
    </div>
   </td>
  </tr>
@@ -135,15 +135,28 @@ For some information on who we are and what we are currently doing, you may look
        style="width: 1em; margin-inline-start: 0.5em"
        alt="ORCID iD icon"/>
    </a>
-   at the <a href="https://www.unam.mx/">National Autonomous University of Mexico</a>. Focus on multiphysics modeling development with experience in electromagnetic, thermal, CFD (thermofluid, CFD-structure interaction and electrohydrodynamic simulations) and structural mechanics (elastic and elastoplastic models). Contact available in English, French or Spanish.
+   at the <a href="https://www.unam.mx/">National Autonomous University of Mexico</a>. Focus on multiphysics modeling development with experience in electromagnetic, thermal, CFD (thermofluid, CFD-structure interaction and electrohydrodynamic simulations) and structural mechanics (elastic and elastoplastic models).
    </td>
 
    <td>
-    Contact available in English, French or Finnish.
+    Development Engineer and lead research specialist at <a href="https://trafotek.fi/">AK Trafotek Oy</a>. Focus on multiphysics modeling development with experience in electromagnetic with circuit coupling, thermal and mechanical (elastic and elastoplastic models).
    </td>
  </tr>
-</table>
 
+ <tr>
+ <td>
+  <div align="center">
+   Contact available in English, French and Spanish.
+  </div>
+ </td>
+
+  <td>
+   <div align="center">
+    Contact available in English, French and Finnish.
+   </div>
+  </td>
+ </tr>
+</table>
 
 <hr style="border:2px solid orange">
 <hr style="border:2px solid orange">
