@@ -91,22 +91,28 @@ For some information on who we are and what we are currently doing, you may look
  <tr>
   <td>
    <div align="center">
+    <a href="https://github.com/ettaka/" rel="github">
+       <img src="./Pictures/ettaka.jpeg" width="100">
+   </a>
+   </div>
+  </td>
+
+  <td>
+   <div align="center">
     <a href="https://github.com/ftrillaudp" rel="googlescholar">
        <img src="./Pictures/foto.jpeg" width="100">
     </a>
    </div>
   </td>
-
-  <td>
-  <div align="center">
-   <a href="https://github.com/ettaka/" rel="github">
-      <img src="./Pictures/ettaka.jpeg" width="100">
-   </a>
-   </div>
-  </td>
  </tr>
 
  <tr>
+  <td>
+   <div align="center">
+    <a href="https://github.com/ettaka/">Eelis Takala</a>
+   </div>
+  </td>
+
   <td>
    <div align="center">
     <a href="https://github.com/ftrillaudp">Frederic Trillaud</a>
@@ -124,26 +130,20 @@ For some information on who we are and what we are currently doing, you may look
     </a>
    </div>
   </td>
-
-  <td>
-   <div align="center">
-    <a href="https://github.com/ettaka/">Eelis Takala</a>
-   </div>
-  </td>
  </tr>
 
  <tr>
-  <td>
-    <div align="justify">
-     Associate professor at the <a href="https://www.unam.mx/">National Autonomous University of Mexico</a>. Focus on multiphysics modeling development with experience in electromagnetic, thermal, CFD (thermofluid, CFD-structure interaction and electrohydrodynamic simulations) and structural mechanics (elastic and elastoplastic models).
-    </div>
-   </td>
-
    <td>
     <div align="justify">
      Development Engineer and lead research specialist at <a href="https://trafotek.fi/">AK Trafotek Oy</a>. Focus on multiphysics modeling development with experience in electromagnetic with circuit coupling, thermal and mechanical (elastic and elastoplastic models).
     </div>
    </td>
+   
+   <td>
+     <div align="justify">
+      Associate professor at the <a href="https://www.unam.mx/">National Autonomous University of Mexico</a>. Focus on multiphysics modeling development with experience in electromagnetic, thermal, CFD (thermofluid, CFD-structure interaction and electrohydrodynamic simulations) and structural mechanics (elastic and elastoplastic models).
+     </div>
+    </td>
  </tr>
 </table>
 
