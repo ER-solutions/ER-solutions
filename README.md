@@ -7,7 +7,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="./Icons/logo-ERSolutions.png" width="300"/>
+  <img src="./Icons/logo-ERSolutionsTransparent.png" width="600"/>
 </div>
 
 # Company information
@@ -42,7 +42,7 @@ Hence, in addition to Elmerfem, our experience covers the following software:
  <a href="http://www.elmerfem.org/blog/" rel="elmer">
     <img src="./Icons/elmer.jpeg" width="40">
  </a>
- &nbsp;
+ &nbsp; &nbsp; &nbsp;
  <a href="https://www.code-aster.org/spip.php?rubrique2" rel="aster">
     <img src="./Icons/aster.png" width="54">
  </a>
@@ -50,7 +50,7 @@ Hence, in addition to Elmerfem, our experience covers the following software:
  <a href="https://www.code-saturne.org/cms/web/" rel="saturne">
     <img src="./Icons/saturne.jpeg" width="77">
  </a>
- &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp;
  <a href="https://openfoam.org/" rel="openfoam">
     <img src="./Icons/openfoam.png" width="150">
  </a>
@@ -63,6 +63,10 @@ Hence, in addition to Elmerfem, our experience covers the following software:
 [Code_Saturne](https://www.code-saturne.org/cms/web/)
 &nbsp;
 [Openfoam](https://openfoam.org/)
+
+Main programming languages:
+- [Python](https://www.python.org/)
+- [Fortran](https://fortran-lang.org/)
 
 
 <hr style="border:2px solid blue">
@@ -79,24 +83,76 @@ Some videos related to the handling of the software can be found on our Youtube 
 
 <hr style="border:2px solid green">
 
-# 🧑‍🔬 Online profiles
+# 🧑‍🔬 Profiles
 
 For some information on who we are and what we are currently doing, you may look at our online profiles (click name or photos to get redirected):
 
-[Frederic Trillaud](https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en) (Academic applications)
-<div align="left">
- <a href="https://scholar.google.com/citations?user=KK0VX34AAAAJ&hl=en" rel="googlescholar">
-    <img src="./Pictures/foto.jpeg" width="100">
- </a>
-</div>
+<table>
+ <tr>
+  <td>
+   <div align="center">
+    <a href="https://github.com/ettaka/" rel="github">
+       <img src="./Pictures/ettaka.jpeg" width="100">
+   </a>
+   </div>
+  </td>
 
-[Eelis Takala](https://github.com/ettaka/) (Industrial applications)
-<div align="left">
- <a href="https://github.com/ettaka/" rel="github">
-    <img src="./Icons/github.png" width="100">
- </a>
-</div>
+  <td>
+   <div align="center">
+    <a href="https://github.com/ftrillaudp" rel="googlescholar">
+       <img src="./Pictures/foto.jpeg" width="100">
+    </a>
+   </div>
+  </td>
+ </tr>
 
+ <tr>
+  <td>
+   <div align="center">
+    <a href="https://github.com/ettaka/">Eelis Takala</a>
+   </div>
+  </td>
+
+  <td>
+   <div align="center">
+    <a href="https://github.com/ftrillaudp">Frederic Trillaud</a>
+    <a
+     id="cy-effective-orcid-url"
+     class="underline"
+     href="https://orcid.org/0000-0002-6964-5603"
+     target="orcid.widget"
+     rel="me noopener noreferrer"
+     style="vertical-align: top">
+     <img
+        src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+        style="width: 1em; margin-inline-start: 0.5em"
+        alt="ORCID iD icon"/>
+    </a>
+   </div>
+  </td>
+ </tr>
+
+ <tr>
+   <td>
+    <div align="justify">
+     Development Engineer and lead research specialist at <a href="https://trafotek.fi/">AK Trafotek Oy</a>. Focus on multiphysics modeling development with experience in electromagnetic with circuit coupling, thermal and mechanical (elastic and elastoplastic models).
+    </div>
+   </td>
+   
+   <td>
+     <div align="justify">
+      Associate professor at the <a href="https://www.unam.mx/">National Autonomous University of Mexico</a>. Focus on multiphysics modeling development with experience in electromagnetic, thermal, CFD (thermofluid, CFD-structure interaction and electrohydrodynamic simulations) and structural mechanics (elastic and elastoplastic models).
+     </div>
+    </td>
+ </tr>
+</table>
+
+<hr style="border:2px solid yellow">
+
+# :bell: Contacts
+
+Contact available in English, French, Spanish and Finnish:
+<a href="mailto:elemental.reality.solutions@gmail.com">📩 ER-Solutions</a>
 
 <hr style="border:2px solid orange">
 <hr style="border:2px solid orange">
