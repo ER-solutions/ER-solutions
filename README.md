@@ -7,7 +7,7 @@
 -->
 
 <div id="header" align="center">
-  <img src="./Icons/logo-ERSolutionsTransparent.png" width="500"/>
+  <img src="./Icons/logo-ERSolutionsTransparent.png" width="600"/>
 </div>
 
 # Company information
@@ -42,7 +42,7 @@ Hence, in addition to Elmerfem, our experience covers the following software:
  <a href="http://www.elmerfem.org/blog/" rel="elmer">
     <img src="./Icons/elmer.jpeg" width="40">
  </a>
- &nbsp; &nbsp; &nbsp;
+ &nbsp; &nbsp; &nbsp; &nbsp;
  <a href="https://www.code-aster.org/spip.php?rubrique2" rel="aster">
     <img src="./Icons/aster.png" width="54">
  </a>
@@ -111,7 +111,7 @@ For some information on who we are and what we are currently doing, you may look
  <tr>
 
   <td>
-   [Frederic Trillaud](https://github.com/ftrillaudp) \[Academic applications\]: [Associate professor](https://orcid.org/0000-0002-6964-5603)
+   [Frederic Trillaud](https://github.com/ftrillaudp), `Academic applications`: [Associate professor](https://orcid.org/0000-0002-6964-5603)
    <a
    id="cy-effective-orcid-url"
    class="underline"
@@ -129,7 +129,7 @@ For some information on who we are and what we are currently doing, you may look
    </td>
 
    <td>
-    [Eelis Takala](https://github.com/ettaka/) \[Industrial applications\]: Contact available in English, French or Finnish.
+    [Eelis Takala](https://github.com/ettaka/), `Industrial applications`: Contact available in English, French or Finnish.
    </td>
 
  </tr>
