@@ -122,6 +122,7 @@ For some information on who we are and what we are currently doing, you may look
 
  <tr>
   <td>
+   <div align="justify">
    Associate professor
    <a
     id="cy-effective-orcid-url"
@@ -136,6 +137,7 @@ For some information on who we are and what we are currently doing, you may look
        alt="ORCID iD icon"/>
    </a>
    at the <a href="https://www.unam.mx/">National Autonomous University of Mexico</a>. Focus on multiphysics modeling development with experience in electromagnetic, thermal, CFD (thermofluid, CFD-structure interaction and electrohydrodynamic simulations) and structural mechanics (elastic and elastoplastic models).
+   </div>
    </td>
 
    <td>
